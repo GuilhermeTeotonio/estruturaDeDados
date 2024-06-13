@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Ordena {
+public class Exer3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] nomes = new String[5];

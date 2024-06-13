@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Scanner;
 
-public class Duplicados {
+public class Exer5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

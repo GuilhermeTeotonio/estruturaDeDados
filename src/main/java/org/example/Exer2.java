@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Alturas {
+public class Exer2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         float[] alturas = new float[5];
